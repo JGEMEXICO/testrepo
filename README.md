@@ -1,2 +1,2 @@
 # testrepo
-Edx course
+Edx course, primer repositorio
